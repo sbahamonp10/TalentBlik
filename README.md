@@ -156,7 +156,7 @@ python App1g.py
 
 El vídeo completo de demostración de TalentBlik puede consultarse en el siguiente enlace:
 
-https://drive.google.com/file/d/16KfMFAD-w6-fFLPm752uGyR6mAXucHoz/view?usp=sharing
+https://drive.google.com/file/d/1FrLfuy-eTUemocJ5GYgsyeT894y-Wu94/view?usp=sharing
 
 ## Autor
 
